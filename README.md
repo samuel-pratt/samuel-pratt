@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-pratt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **samuel-pratt/samuel-pratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
