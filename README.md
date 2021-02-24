@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hello 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-pratt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I am a Software Developer currently working for [Ensemble](https://ensemble.com), living in Victoria, British Columbia, Canada. I like data visualization, and automating things with Python. 
 
-- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning ...
-
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+- 💬 Talk to me about 
+- 📫 How to reach me: 
+    - sjpratt19@gmail.com
