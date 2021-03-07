@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a Software Developer currently working at [Ensemble](https://ensemble.com), living in Victoria, British Columbia, Canada. I like building full stack apps using React and Python that have localized applications for Vancouver Island and UVic.
+I'm a Software Developer currently working at [Ensemble](https://ensemble.com), living in Victoria, BC. I like building full stack apps using React and Python that have localized applications for Vancouver Island and UVic.
 
 
 - 🔭 I’m currently working on [FerryTimes](https://github.com/samuel-pratt/ferrytimes-api), my open-source API for getting info on BC Ferries Sailings, and it's accompanying [app](https://github.com/samuel-pratt/ferrytimes-app) (in progress).
