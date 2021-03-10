@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 
 I'm a Software Developer currently working at [Ensemble](https://ensemble.com), living in Victoria, BC. I like building full stack apps using React and Python that have localized applications for Vancouver Island and UVic.
 
