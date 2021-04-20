@@ -9,4 +9,4 @@ I'm a Software Developer currently working at [Ensemble](https://ensemble.com), 
     - sjpratt19@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nog-bs)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-pratt)](https://github.com/anuraghazra/github-readme-stats)
