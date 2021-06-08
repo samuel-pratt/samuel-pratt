@@ -1,9 +1,9 @@
 ## Hello 👋
 
-I'm a Software Developer currently working at [Ensemble](https://ensemble.com), living in Victoria, BC. I like building apps and websites using React and Python that have localized applications for Vancouver Island and UVic.
+I'm a Software Developer currently working at [Ensemble](https://ensemble.com), living in Victoria, BC. I like building apps and websites that have localized applications for Vancouver Island and UVic.
 
 
-- 🔭 I’m currently working on [neoforms](https://github.com/samuel-pratt/neoforms), a minimalist form submission service built using NodeJS.
+- 🔭 I’m currently working on [neoforms](https://github.com/samuel-pratt/neoforms), a minimalist form submission service built using NodeJS and Express.
 - 🌱 I’m currently learning how to make mobile apps with React Native.
 - 📫 How to reach me: 
     - sjpratt19@gmail.com
