@@ -25,10 +25,10 @@ I'm a Software Developer currently working at [Ensemble](https://ensemble.com), 
     - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
 
 <p align="center">
-  <a href="https://github.com/PeterlitsZo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PeterlitsZo&include_all_commits=true&show_icons=true" />
+  <a href="https://github.com/samuel-pratt">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuel-pratt&include_all_commits=true&show_icons=true" />
   </a>
-  <a href="https://github.com/PeterlitsZo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterlitsZo&layout=compact" />
+  <a href="https://github.com/samuel-pratt">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-pratt&layout=compact" />
   </a>
 </p>
