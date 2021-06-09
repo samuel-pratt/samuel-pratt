@@ -29,6 +29,6 @@ I'm a Software Developer currently working at [Ensemble](https://ensemble.com), 
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuel-pratt&include_all_commits=true&show_icons=true" />
   </a>
   <a href="https://github.com/samuel-pratt">
-    <img height="160em" src="" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-pratt&layout=compact" />
   </a>
 </p>
