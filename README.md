@@ -10,3 +10,4 @@ I'm a Software Developer currently working at [Ensemble](https://ensemble.com), 
     - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-pratt)](https://github.com/anuraghazra/github-readme-stats)
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterlitsZo&layout=compact)
