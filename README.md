@@ -1,3 +1,18 @@
+<!--
+**PeterlitsZo/PeterlitsZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ## Hello 👋
 
 I'm a Software Developer currently working at [Ensemble](https://ensemble.com), living in Victoria, BC. I like building apps and websites that have localized applications for Vancouver Island and UVic.
@@ -9,5 +24,11 @@ I'm a Software Developer currently working at [Ensemble](https://ensemble.com), 
     - sjpratt19@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-pratt)](https://github.com/anuraghazra/github-readme-stats)
-[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-pratt&layout=compact)]
+<p align="center">
+  <a href="https://github.com/PeterlitsZo">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PeterlitsZo&include_all_commits=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/PeterlitsZo">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterlitsZo&layout=compact" />
+  </a>
+</p>
