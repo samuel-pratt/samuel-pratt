@@ -19,7 +19,7 @@ I'm a Software Developer currently working at [Ensemble](https://ensemble.com), 
 
 
 - 🔭 I’m currently working on neoforms, a minimalist form submission service built using NodeJS and Express.
-- 🌱 I’m currently learning how to make mobile apps with React Native.
+- 🌱 I’m currently learning how to code in Go
 - 📫 How to reach me: 
     - sjpratt19@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
