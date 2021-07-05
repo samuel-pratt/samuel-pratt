@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ## Hello 👋
 
-I'm a Software Developer currently working at [Ensemble](https://ensemble.com), living in Victoria, BC. I like building apps and websites that have localized applications for Vancouver Island and UVic.
+I'm a Software Developer from Victoria, BC. I like building apps and websites that have localized applications for Vancouver Island and UVic.
 
 
-- 🔭 I’m currently working on neoforms, a minimalist form submission service built using NodeJS and Express.
+- 🔭 I’m currently working on updating my BC Ferries API
 - 🌱 I’m currently learning how to code in Go
 - 📫 How to reach me: 
     - sjpratt19@gmail.com
