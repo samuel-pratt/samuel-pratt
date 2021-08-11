@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm a Software Developer from Victoria, BC. I like building apps and websites that have localized applications for Vancouver Island and UVic.
 
-- 🌱 I’m currently learning how to code in Go
 - 📫 How to reach me: 
     - sjpratt19@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
