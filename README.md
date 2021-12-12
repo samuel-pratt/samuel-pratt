@@ -25,8 +25,8 @@ I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I
 - [◻ whitespace-go](https://github.com/samuel-pratt/whitespace-go) - A [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language)) interpreter written in Go.
 
 ### 📫 How to reach me: 
-    - sjpratt19@gmail.com
-    - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
+- sjpratt19@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
 
 <p align="center">
   <a href="https://github.com/samuel-pratt">
