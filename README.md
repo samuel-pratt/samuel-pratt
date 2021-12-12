@@ -24,7 +24,7 @@ I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I
 - [🧠 brainfuck-go](https://github.com/samuel-pratt/brainfuck-go) - A [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Go.
 - [◻ whitespace-go](https://github.com/samuel-pratt/whitespace-go) - A [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language)) interpreter written in Go.
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
     - sjpratt19@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
 
