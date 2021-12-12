@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello 👋
 
-I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I'm interested in esoteric languages, polygot programs, and the tools built for them. I also things that have localized applications for Vancouver Island and UVic.
+I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I'm interested in esoteric languages, polygot programs, and the tools built for them. I also like building things that have localized applications for Vancouver Island and UVic.
 
 ## A few things I've built
 
