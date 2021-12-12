@@ -28,11 +28,3 @@ I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I
 - sjpratt19@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
 
-<p align="center">
-  <a href="https://github.com/samuel-pratt">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuel-pratt&include_all_commits=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/samuel-pratt">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-pratt&layout=compact" />
-  </a>
-</p>
