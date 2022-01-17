@@ -23,6 +23,8 @@ I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I
 - [🐛 Bugsnax API](https://github.com/samuel-pratt/bugsnax-api) - A public, open-source api for the game Bugsnax by Young Horses.
 - [🧠 brainfuck-go](https://github.com/samuel-pratt/brainfuck-go) - A [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Go.
 - [◻ whitespace-go](https://github.com/samuel-pratt/whitespace-go) - A [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language)) interpreter written in Go.
+- [🔦 raycaster](https://github.com/samuel-pratt/raycaster) - A raycasting engine built with Go and Ebiten.
+- [🐍 Herman the Worm](https://github.com/samuel-pratt/herman-the-worm) - A snake ai for battlesnake 2020 & 2021
 
 ### 📫 How to reach me: 
 - sjpratt19@gmail.com
