@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello 👋
 
-I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I'm interested in esoteric languages, polygot programs, and the tools built for them. I also like building things that have localized applications for Vancouver Island and UVic.
+I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. In my free time I make apps like [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209) and an in progress app for monitoring Heroku dynos on the go.
 
 ## A few things I've built
 
@@ -24,7 +24,6 @@ I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I
 - [🧠 brainfuck-go](https://github.com/samuel-pratt/brainfuck-go) - A [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Go.
 - [◻ whitespace-go](https://github.com/samuel-pratt/whitespace-go) - A [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language)) interpreter written in Go.
 - [🔦 raycaster](https://github.com/samuel-pratt/raycaster) - A raycasting engine built with Go and Ebiten.
-- [🐍 Herman the Worm](https://github.com/samuel-pratt/herman-the-worm) - A snake ai for battlesnake 2020 & 2021
 
 ### 📫 How to reach me: 
 - sjpratt19@gmail.com
