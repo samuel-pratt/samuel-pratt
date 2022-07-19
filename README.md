@@ -20,6 +20,7 @@ I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. I
 ## A few things I've built
 
 - [🛳 BC Ferries API](https://github.com/samuel-pratt/bc-ferries-api) - The only public API for retrieving current data on BC Ferries sailings.
+- [🥊 UFC API](https://github.com/samuel-pratt/ufc-api) - An API that scrapes for current UFC rankings and upcoming events
 - [🐛 Bugsnax API](https://github.com/samuel-pratt/bugsnax-api) - A public, open-source api for the game Bugsnax by Young Horses.
 - [🧠 brainfuck-go](https://github.com/samuel-pratt/brainfuck-go) - A [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Go.
 - [◻ whitespace-go](https://github.com/samuel-pratt/whitespace-go) - A [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language)) interpreter written in Go.
