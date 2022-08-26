@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello 👋
 
-I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. In my free time I make apps like [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209) and an in progress app for monitoring Heroku dynos on the go.
+I'm a Software Developer at [Kano](https://www.kanoapps.com/) in Victoria, BC. In my free time I make apps like [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209).
 
 ## A few things I've built
 
