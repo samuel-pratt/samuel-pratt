@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello 👋
 
-I'm a Software Developer from Victoria, BC. Previously worked at [Kano](https://www.kanoapps.com/) and [Ensemble]([https://www.kanoapps.com/)](https://www.ensemble.com/). In my free time I make apps like [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209).
+I'm a Software Developer from Victoria, BC. Previously worked at [Kano](https://www.kanoapps.com/) and [Ensemble]([https://www.kanoapps.com/)(https://www.ensemble.com/). In my free time I make apps like [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209).
 
 ## A few things I've built
 
