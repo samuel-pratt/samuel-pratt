@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 
 ## Hello 👋
 
-I'm a Software Developer from Victoria, BC. Previously worked at [Kano](https://www.kanoapps.com/) and [Ensemble](https://www.ensemble.com/). In my free time I make apps like [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209).
+I'm a Software Developer from Victoria, BC making apps that serve west coastal communities. Previously worked at [Kano](https://www.kanoapps.com/) and [Ensemble](https://www.ensemble.com/). 
 
 ## A few things I've built
 
-- [🛳 BC Ferries API](https://github.com/samuel-pratt/bc-ferries-api) - The only public API for retrieving current data on BC Ferries sailings.
-- [🥊 UFC API](https://github.com/samuel-pratt/ufc-api) - An API that scrapes for current UFC rankings and upcoming events
-- [🐛 Bugsnax API](https://github.com/samuel-pratt/bugsnax-api) - A public, open-source api for the game Bugsnax by Young Horses.
-- [🧠 brainfuck-go](https://github.com/samuel-pratt/brainfuck-go) - A [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Go.
-- [◻ whitespace-go](https://github.com/samuel-pratt/whitespace-go) - A [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language)) interpreter written in Go.
-- [🔦 raycaster](https://github.com/samuel-pratt/raycaster) - A raycasting engine built with Go and Ebiten.
+- 🛳️ [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209)
+- 📍 [Ferry Watch](https://apps.apple.com/ca/app/ferry-watch/id6446906912)
+
+(Coming soon)
+
+- 🛳️ Alaska Ferry Times
+- 🛳️ Washington Ferry Times
 
 ### 📫 How to reach me: 
 - sjpratt19@gmail.com
