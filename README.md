@@ -22,11 +22,6 @@ I'm a Software Developer from Victoria, BC making apps that serve west coastal c
 - 🛳️ [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209)
 - 📍 [Ferry Watch](https://apps.apple.com/ca/app/ferry-watch/id6446906912)
 
-(Coming soon)
-
-- 🛳️ Alaska Ferry Times
-- 🛳️ Washington Ferry Times
-
 ### 📫 How to reach me: 
 - sjpratt19@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
