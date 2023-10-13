@@ -13,4 +13,3 @@ In my free time I make apps for
 ### 📫 How to reach me: 
 - sjpratt19@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sam-pratt-7045401b6/)
-
