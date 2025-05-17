@@ -4,17 +4,17 @@ I'm a Software Developer from Victoria, BC. I enjoy working on apps and services
 
 Some companies I've worked with:
 
-- 🔬 [Pathverse](https://www.pathverse.ca/)
+- 🧑‍🔬 [Pathverse](https://www.pathverse.ca/)
 - ⚓️ [Chapter 2 Software](https://www.chapter2software.com/)
-- 📊 [Katipult](https://www.katipult.com/)
+- 📈 [Katipult](https://www.katipult.com/)
 - 🎮 [Kano](https://www.kanoapps.com/)
-- 🛠️ [Ensemble](https://www.ensemble.com/).
+- 🧩 [Ensemble](https://www.ensemble.com/).
 
 ## A few things I've built
 
 - 🛳️ [BC Ferry Times](https://apps.apple.com/ca/app/id1615899209)
 - 📍 [Ferry Watch](https://apps.apple.com/ca/app/ferry-watch/id6446906912)
-- ⚓️ [BC Ferries API](https://bcferriesapi.ca)
+- ⛴️ [BC Ferries API](https://bcferriesapi.ca)
 
 ### 📫 How to reach me: 
 - sjpratt19@gmail.com
