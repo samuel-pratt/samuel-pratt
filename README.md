@@ -1,6 +1,14 @@
 ## Hello 👋
 
-I'm a Software Developer from Victoria, BC working at [Katipult](https://www.katipult.com/). Previously worked at [Kano](https://www.kanoapps.com/) and [Ensemble](https://www.ensemble.com/). 
+I'm a Software Developer from Victoria, BC. I enjoy working on apps and services that have a local impact on Vancouver Island.
+
+Some companies I've worked with:
+
+- 🔬 [Pathverse](https://www.pathverse.ca/)
+- ⚓️ [Chapter 2 Software](https://www.chapter2software.com/)
+- 📊 [Katipult](https://www.katipult.com/)
+- 🎮 [Kano](https://www.kanoapps.com/)
+- 🛠️ [Ensemble](https://www.ensemble.com/).
 
 ## A few things I've built
 
