@@ -8,7 +8,7 @@ I'm a Software Developer from Victoria, BC. I enjoy working on apps and services
 - ⚓️ [Chapter 2 Software](https://www.chapter2software.com/)
 - 📈 [Katipult](https://www.katipult.com/)
 - 🎮 [Kano](https://www.kanoapps.com/)
-- 🧩 [Ensemble](https://www.ensemble.com/).
+- 🧩 [Ensemble](https://www.ensemble.com/)
 
 ### A few things I've built
 
