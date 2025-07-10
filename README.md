@@ -6,7 +6,7 @@ I'm a Software Developer from Victoria, BC. I enjoy working on apps and services
 
 - 🧑‍🔬 [Pathverse](https://www.pathverse.ca/)
 - ⚓️ [Chapter 2 Software](https://www.chapter2software.com/)
-- 📈 [Katipult](https://www.katipult.com/)
+- 📈 [Katipult (Acquired by Markette Ventures)]([https://www.katipult.com/](https://markette.ca/))
 - 🎮 [Kano](https://www.kanoapps.com/)
 - 🧩 [Ensemble](https://www.ensemble.com/)
 
